@@ -15,7 +15,3 @@ const sobrenome = " Damasceno"
 
 console.log(fraseApersentacao + nome + sobrenome)
 
-// template string ou template literal
-// forma mais fácio para formar frases e buscar variaveis para jogar dentro de uma item
-`Meu nome é ${nome} e meu sobrenome é ${sobrenome}`
-
