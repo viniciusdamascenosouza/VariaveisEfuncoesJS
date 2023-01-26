@@ -27,3 +27,18 @@ if(forma === 'retângulo') {
 }
 
 console.log(area2);
+
+
+//CONST
+const forma3 = 'quadrado';
+const altura3 = 5;
+const comprimento3 = 10;
+let area3;
+
+if (forma3 === 'quadrado') {
+    area3 = altura3 * comprimento3;
+} else {
+    area3 = (altura3 * comprimento3) / 2;
+}
+
+console.log(area3)
