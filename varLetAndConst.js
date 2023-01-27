@@ -42,3 +42,20 @@ if (forma3 === 'quadrado') {
 }
 
 console.log(area3)
+
+const nome = 'Vinícius';
+const sobrenome = 'Damasceno';
+const idade = 20;
+
+const informacoes = `Meu nome é ${nome} ${sobrenome} e tenho ${idade} anos de idade.`
+
+console.log(informacoes)
+
+let nome1 = 'Gabriele';
+let sobrenome1 = 'Fernanda';
+let idade1 = 19;
+
+let informacoes1 = `Me chamo ${nome1} ${sobrenome1}, tenho ${idade1} anos de idade.`
+
+console.log(informacoes1)
+
